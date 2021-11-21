@@ -1,0 +1,3 @@
+Cac nut duoc sac 3, 24, 3,
+Cac nut chet 5, 8, 11, 12, 17, 18, 20,
+So nut chet 7.
